@@ -1,0 +1,17 @@
+panda 
+numpy
+matplotlib
+seaborn
+scikit_learn
+
+tensorflow
+requests
+contractions
+gensim
+nltk
+
+pydantic
+fastapi
+uvicorn
+transformers
+ipykernel
